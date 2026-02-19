@@ -6,10 +6,30 @@
     <description>Recent content on Flying Iowa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="//www.flyingiowa.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>404</title>
+      <link>//www.flyingiowa.com/404/</link>
+      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>//www.flyingiowa.com/404/</guid>
+      <description>The page you were looking for cannot be found or was moved - use the sidebar to find it.</description>
+    </item>
+    
+    <item>
+      <title>Map</title>
+      <link>//www.flyingiowa.com/map/</link>
+      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>//www.flyingiowa.com/map/</guid>
+      <description>var locations = [ [&#39;Maquoketa Municipal Airport (KOQW)Transportation: Yes, cop car available after hours
+Food/Fun in Walking Distance:No
+Notes: Accesible pilots lounge after hours with vending and snacks. Several restaurants in area including Perxactly Bar &amp; Grill (top 10 best burgers in iowa). Cop car for courtesy car, shops downtown, drive in movie theatre, Bluff lake catfish farm (open Fri-Sun).  2015: Courtesy car accessible after hours via lockbox key.</description>
+    </item>
     
     <item>
       <title>Reedsburg, Wisconsin (C35)</title>
@@ -197,7 +217,7 @@
       <pubDate>Thu, 02 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>//www.flyingiowa.com/airport/illinois-dixon-c73/</guid>
-      <description>&lt;p&gt;Two courtesy cars available afterhours via lockbock in the FBO building.   Took the classic jeep into town with plenty of restaurant options, including some right on the river.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Two courtesy cars available afterhours via lockbox in the FBO building.   Took the classic jeep into town with plenty of restaurant options, including some right on the river.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -365,15 +385,6 @@ Foldable bikes and electric scooters fit nicely into the airplane.</description>
     </item>
     
     <item>
-      <title>404</title>
-      <link>//www.flyingiowa.com/404/</link>
-      <pubDate>Sun, 10 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>//www.flyingiowa.com/404/</guid>
-      <description>The page you were looking for cannot be found or was moved - use the sidebar to find it.</description>
-    </item>
-    
-    <item>
       <title>About</title>
       <link>//www.flyingiowa.com/about/</link>
       <pubDate>Sun, 10 Feb 2019 00:00:00 +0000</pubDate>
@@ -489,17 +500,6 @@ Similar Websites  Flying Hamburger Social Midwest fly-ins and socials  For the N
       
       <guid>//www.flyingiowa.com/airport/iowa-belle-plaine-ktzt/</guid>
       <description>&lt;p&gt;Lincoln Cafe restaurant is popular and OK food.  Neat downtown area next to train tracks. Nice lounge in FBO and easy access to car.   There appeared to be a bike available as well.  Code to garage is 1228 (CTAF - 1).&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Map</title>
-      <link>//www.flyingiowa.com/map/</link>
-      <pubDate>Fri, 20 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>//www.flyingiowa.com/map/</guid>
-      <description>var locations = [ [&#39;Maquoketa Municipal Airport (KOQW)Transportation: Yes, cop car available after hours
-Food/Fun in Walking Distance:No
-Notes: Accesible pilots lounge after hours with vending and snacks. Several restaurants in area including Perxactly Bar &amp; Grill (top 10 best burgers in iowa). Cop car for courtesy car, shops downtown, drive in movie theatre, Bluff lake catfish farm (open Fri-Sun).  2015: Courtesy car accessible after hours via lockbox key.</description>
     </item>
     
     <item>

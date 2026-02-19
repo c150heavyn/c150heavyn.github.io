@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>//www.flyingiowa.com/404/</loc>
+    <lastmod>2026-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//www.flyingiowa.com/map/</loc>
+    <lastmod>2026-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>//www.flyingiowa.com/airport/wisconsin-reedsburg-c35/</loc>
     <lastmod>2025-08-20T00:00:00+00:00</lastmod>
   </url>
@@ -198,11 +208,6 @@
   </url>
   
   <url>
-    <loc>//www.flyingiowa.com/404/</loc>
-    <lastmod>2019-02-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>//www.flyingiowa.com/about/</loc>
     <lastmod>2019-02-10T00:00:00+00:00</lastmod>
   </url>
@@ -265,11 +270,6 @@
   <url>
     <loc>//www.flyingiowa.com/airport/iowa-belle-plaine-ktzt/</loc>
     <lastmod>2017-02-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//www.flyingiowa.com/map/</loc>
-    <lastmod>2017-01-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -499,18 +499,8 @@
   </url>
   
   <url>
-    <loc>//www.flyingiowa.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>//www.flyingiowa.com/</loc>
-    <lastmod>2025-08-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//www.flyingiowa.com/tags/</loc>
+    <lastmod>2026-02-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
