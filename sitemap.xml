@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>//www.flyingiowa.com/airport/iowa-radcliffe-2y1/</loc>
+    <lastmod>2026-06-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>//www.flyingiowa.com/airport/iowa-belmond-y48/</loc>
     <lastmod>2026-06-03T00:00:00+00:00</lastmod>
   </url>
@@ -70,11 +75,6 @@
   <url>
     <loc>//www.flyingiowa.com/airport/wisconsin-mineral-point-kmrj/</loc>
     <lastmod>2024-06-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//www.flyingiowa.com/airport/iowa-radcliffe-2y1/</loc>
-    <lastmod>2024-05-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -494,13 +494,13 @@
   
   <url>
     <loc>//www.flyingiowa.com/airport/</loc>
-    <lastmod>2026-06-03T00:00:00+00:00</lastmod>
+    <lastmod>2026-06-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>//www.flyingiowa.com/</loc>
-    <lastmod>2026-06-03T00:00:00+00:00</lastmod>
+    <lastmod>2026-06-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
